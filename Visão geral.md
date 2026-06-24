@@ -1,6 +1,6 @@
 # Projeto
 
-  Esse projeto foi desenvolvido em resultado do curso de Introdução a AI Reports.
+  *Esse projeto foi desenvolvido em resultado do curso de Introdução a AI Reports.*
 
   Durante o curso aprendemos a desenvolver dashboards de forma mais agil e visualmente melhor, no qual o dashboard que produzimos é um projeto de análise de dados desenvolvido para transformar informações comerciais de vendas de veículos Porsche em uma experiência visual, interativa e orientada a decisões.
 
